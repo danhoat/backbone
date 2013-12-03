@@ -31,9 +31,7 @@
 		}
 	});
 
-	BB.Collections.View = Backbone.Collections.extend({
-		
-	});
+	
 	BB.Views.App = Backbone.View.extend({
 		el : 'body',
 		events : {
